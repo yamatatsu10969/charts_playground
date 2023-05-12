@@ -1,16 +1,9 @@
 # charts_playground
 
-A new Flutter project.
+## scrollable_chart
 
-## Getting Started
+https://github.com/yamatatsu10969/charts_playground/assets/43805056/6706eaa9-d0c1-427e-b420-f181c4a1dce2
 
-This project is a starting point for a Flutter application.
+## simple_bar_chart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/yamatatsu10969/charts_playground/assets/43805056/dee1fd8d-596b-41fd-9f1c-0453fb5edd6f
