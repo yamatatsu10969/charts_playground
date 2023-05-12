@@ -26,7 +26,7 @@ class ScrollableChartScreen extends StatefulWidget {
   const ScrollableChartScreen({Key? key}) : super(key: key);
 
   @override
-  _ScrollableChartScreenState createState() => _ScrollableChartScreenState();
+  State<ScrollableChartScreen> createState() => _ScrollableChartScreenState();
 }
 
 class _ScrollableChartScreenState extends State<ScrollableChartScreen> {
