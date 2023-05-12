@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "scrollable_chart",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/scrollable_chart.dart"
+    },
+    {
+      "name": "simple_bar_chart",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/simple_bar_chart.dart"
+    }
+  ]
+}

@@ -37,32 +37,8 @@ class SimpleBarChart extends StatelessWidget {
                 titleOutsideJustification:
                     charts.OutsideJustification.middleDrawArea,
               ),
-              // q: 初期値を設定したい。真ん中くらいの zoom になるようにできる？
-              // a: できない。初期値は 0.0 で、0.0 は 0% に相当する。
               charts.PanAndZoomBehavior(panningCompletedCallback: () {}),
             ],
-            // primaryMeasureAxis: charts.NumericAxisSpec(
-            //   renderSpec: charts.GridlineRendererSpec(
-            //     labelStyle: const charts.TextStyleSpec(
-            //       fontSize: 12,
-            //       color: charts.MaterialPalette.white,
-            //     ),
-            //     lineStyle: charts.LineStyleSpec(
-            //       color: charts.MaterialPalette.gray.shadeDefault,
-            //     ),
-            //   ),
-            // ),
-            // domainAxis: charts.OrdinalAxisSpec(
-            //   renderSpec: charts.SmallTickRendererSpec(
-            //     labelStyle: const charts.TextStyleSpec(
-            //       fontSize: 12,
-            //       color: charts.MaterialPalette.white,
-            //     ),
-            //     lineStyle: charts.LineStyleSpec(
-            //       color: charts.MaterialPalette.gray.shadeDefault,
-            //     ),
-            //   ),
-            // ),
           ),
         ),
       ),
